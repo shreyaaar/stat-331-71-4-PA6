@@ -1,7 +1,7 @@
 ---
 title: "Practice Activity 6"
 format: html
-author: Shreya Ravilla, Ty Williams, Claire Freeman
+author: Shreya Ravilla, Claire Freeman, Ty Williams
 self-contained: true
 editor: visual
 ---
